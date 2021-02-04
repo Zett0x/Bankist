@@ -1,7 +1,7 @@
 # Bankist
 DEMO bank application developed in javascript.
 
-ACCOUNTS
+
 js
 1111
 
